@@ -1,0 +1,47 @@
+                          RR   RRR
+                      R,sR,,cRS,,SRCS
+                  S,SR,,,,,,,,,,,,,,sRT,S
+                 RRs,,,,,,,,,,,,,,,,,,,,TRR
+                 R,cT,Ss,,,,,,,,,,,,sA,S,S
+                 Rc,cc,cc,,,,,,,,,,sT,c,,R
+                 RC,,,,,,,,,,,,,,,,,,,,,sR
+                  S,,,,,,,,,,,,,,,,,,,,,S
+                  S,,,,,,,,,,,,,,,,,,,,,S
+                  A,,,,,,,,,,,,,,,,,,,,cR
+                  R,,,,,,,,,,,,,,,,,,,,sR
+                  Rc,,,,,,,,,,,,,,,,,,,R
+                  Rs,,,,,,,,,,,,,,,,,,,R
+                  RS,,,,,,,,,,,,,,,,,,,RR
+                RC,,,,,,,,,,,,,,,,,,,,ccsR
+                 S,cc,,,,,,,,,,,,,,,,,sSR
+                  RRc,,,,,,,,,,,,,,,,,S
+                    S,,,,,,,,,,,,,,,,SR
+                     RR,,,,,,,,,,,,A
+                       T,,sTSSSTSCcR
+                      RRc,,,,,,,,,,R
+                   RA,,,,,,,,,,,,,,,,SRR
+                 R,,C,,,,,,,,,,,,,,,,cS,S
+               R,,,C,,,,,,,,,,,,,,,,,,C,,cR
+              R,,,cC,,,,,,,,,,,,,,,,,,sc,,TR
+               Rc,Cc,,,,,,,,,,,,,,,,,,,SsTR
+              R,,cRc,,,,,,,,,,,,,,,,,,cS,,cR
+             Rc,,A,,,,,,,,,,,,,,,,,,,,,Ss,,sR
+            RT,cS,,,,,,,,,,,,,,,,,,,,,,,sT,,A
+            R,,S,,,,,,,,,,,,,,,,,,,,,,,,,Ts,cR
+            R,cS,,,,,,,,,,,,,,,,,,,,,,,,,,A,,R
+            S,sc,,,,,,,,,,,,,,,,,,,,,,,,,,Cc,T
+            T,cCRTSsc,,,,,,,,,,,,,,cCCAASRC,,cR
+           Rs,scAcccccccccccccccccccccccsS,RccR
+           RcSs,TAcccccccccccccccccccccsRc,,SCR
+           RAA,SsTccccccccccccccccccccccTcscTR
+                RTccccccccccR RCccccccccTRRR
+                 RRSSSSSRRRR   RSSSTSSSRR
+                  Rc,,,,R        R,,,,,R
+                  Rc,,,,R        Rc,,,,R
+                  Rc,,,,R        Rc,,,cR
+                  RS,,,,R        Rc,,,cA
+                Rc CRRRRc R     RRSssTRcR
+                RSARRASARR      RRSccsSSAR
+              RTccccccccccR    RscccccccccA
+             RRsccccccccccR    RcccccssTTSSR
+              RRRSSTTSARRRR    RSCccccsCSRRRR
